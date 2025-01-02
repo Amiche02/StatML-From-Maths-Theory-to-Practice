@@ -1,7 +1,5 @@
 # 📘 **StatML: From Maths Theory to Practice**
 
----
-
 **StatML: From Maths Theory to Practice** is a comprehensive, interactive guide designed for learners who want to master the mathematical foundations of **Statistics** and **Machine Learning** and apply them practically using Python. 
 
 This document is not only a step-by-step roadmap for your learning journey but also a personal project created to deepen **my understanding of the mathematics behind statistics and machine learning**. It is a reflection of my learning process, aimed at building a strong foundation through practice and documentation.
@@ -29,6 +27,8 @@ This document is not only a step-by-step roadmap for your learning journey but a
    - [📉 Dimensionality Reduction](#-dimensionality-reduction)
    - [📦 Density Estimation](#-density-estimation)
    - [⚡ Classification with SVMs](#-classification-with-svms)
+3. [📚 Data Sources](#-data-sources)
+
 ---
 
 ## 📊 **Statistics**
@@ -40,7 +40,6 @@ This document is not only a step-by-step roadmap for your learning journey but a
   - Shape: Skewness, Kurtosis.
 - **Visualizations**:
   - Histograms, Boxplots, Scatterplots.
-- 📄 [Learn more about Descriptive Statistics](#)
 
 ---
 
@@ -51,7 +50,6 @@ This document is not only a step-by-step roadmap for your learning journey but a
 - **Distributions**:
   - Discrete: Binomial, Poisson.
   - Continuous: Normal, Uniform.
-- 📄 [Learn more about Probability](#)
 
 ---
 
@@ -62,7 +60,6 @@ This document is not only a step-by-step roadmap for your learning journey but a
   - Type I and Type II Errors.
 - **Common Tests**:
   - Parametric and Non-Parametric.
-- 📄 [Learn more about Inferential Statistics](#)
 
 ---
 
@@ -72,7 +69,6 @@ This document is not only a step-by-step roadmap for your learning journey but a
   - Logistic Regression: Odds and Probability Interpretation.
 - **Applications**:
   - Correlation Analysis: Pearson, Spearman.
-- 📄 [Learn more about Regression Analysis](#)
 
 ---
 
@@ -96,26 +92,6 @@ This document is not only a step-by-step roadmap for your learning journey but a
 - **Applications**:
   - Time Series Forecasting.
   - Anomaly Detection.
-- 📄 [Learn more about Time Series Analysis](#)
-
----
-
-### 🤔 **Bayesian Statistics**
-- **Key Concepts**:
-  - Bayesian Inference: Prior, Posterior, Likelihood.
-  - Frequentist vs Bayesian Approaches.
-- **Applications**:
-  - Bayesian Regression.
-- 📄 [Learn more about Bayesian Statistics](#)
-
----
-
-### 🔬 **Advanced Topics**
-- **Key Concepts**:
-  - Survival Analysis: Kaplan-Meier.
-  - Monte Carlo Simulations.
-  - Resampling Methods: Bootstrapping.
-- 📄 [Learn more about Advanced Topics](#)
 
 ---
 
@@ -127,7 +103,6 @@ This document is not only a step-by-step roadmap for your learning journey but a
   - Eigenvalues, Eigenvectors, SVD.
 - **Applications**:
   - Data Representations and Transformations.
-- 📄 [Learn more about Linear Algebra](#)
 
 ---
 
@@ -137,7 +112,6 @@ This document is not only a step-by-step roadmap for your learning journey but a
   - Projections and Rotations.
 - **Applications**:
   - Dimensionality Reduction and Similarity.
-- 📄 [Learn more about Analytic Geometry](#)
 
 ---
 
@@ -147,7 +121,6 @@ This document is not only a step-by-step roadmap for your learning journey but a
   - Multivariate Taylor Series.
 - **Applications**:
   - Backpropagation in Neural Networks.
-- 📄 [Learn more about Vector Calculus](#)
 
 ---
 
@@ -155,7 +128,6 @@ This document is not only a step-by-step roadmap for your learning journey but a
 - **Key Concepts**:
   - Gaussian Distributions.
   - Exponential Families.
-- 📄 [Learn more about Probability and Distributions](#)
 
 ---
 
@@ -163,47 +135,32 @@ This document is not only a step-by-step roadmap for your learning journey but a
 - **Key Concepts**:
   - Gradient Descent.
   - Convex Optimization and Lagrange Multipliers.
-- 📄 [Learn more about Continuous Optimization](#)
 
 ---
 
-### 🧠 **Core ML Problems**
-- **Key Concepts**:
-  - Empirical Risk Minimization.
-  - Probabilistic Modeling and Inference.
-- 📄 [Learn more about Core ML Problems](#)
+## 📚 **Data Sources**
 
----
+### **General Data**
+- [data.gov](https://data.gov/): U.S. government datasets on diverse topics like education, healthcare, and agriculture.
+- [OpenDataSoft](https://data.opendatasoft.com/pages/home/): A variety of datasets for quick prototyping and analysis.
 
-### 📏 **Linear Regression**
-- **Key Concepts**:
-  - Bayesian Linear Regression.
-  - Maximum Likelihood Estimation.
-- 📄 [Learn more about Linear Regression](#)
+### **Machine Learning Practice**
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/): Benchmark datasets for testing ML algorithms.
 
----
+### **Healthcare**
+- [Data.gouv.fr: Médicaments](https://www.data.gouv.fr/fr/datasets/base-de-donnees-publique-des-medicaments-base-officielle/#/resources): Pharmaceutical data from France.
 
-### 📉 **Dimensionality Reduction**
-- **Key Concepts**:
-  - Principal Component Analysis (PCA).
-  - Eigenvector Computation.
-- 📄 [Learn more about Dimensionality Reduction](#)
+### **Economics and Development**
+- [World Bank DataBank](https://databank.worldbank.org/databases/page/1/orderby/popularity/direction/desc): Macroeconomic indicators and global development data.
+- [UN Data](https://data.un.org/): Comprehensive international datasets on demographics, economics, and health.
 
----
+### **Climate and Environment**
+- [NOAA Climate Data Online](https://www.ncei.noaa.gov/cdo-web/datasets): Climate and weather datasets from NOAA.
 
-### 📦 **Density Estimation**
-- **Key Concepts**:
-  - Gaussian Mixture Models (GMM).
-  - Expectation-Maximization Algorithm.
-- 📄 [Learn more about Density Estimation](#)
-
----
-
-### ⚡ **Classification with SVMs**
-- **Key Concepts**:
-  - Hyperplanes and Margins.
-  - Kernel Methods.
-- 📄 [Learn more about Classification with SVMs](#)
+### **Finance**
+- [Polygon.io](https://polygon.io/): Real-time and historical financial market data.
+- [Alpha Vantage](https://www.alphavantage.co/): APIs for financial data and technical indicators.
+- [Alpaca Markets](https://alpaca.markets/): A platform for algorithmic trading and financial analytics.
 
 ---
 
