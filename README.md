@@ -2,7 +2,10 @@
 
 ---
 
-**StatML: From Maths Theory to Practice** is a comprehensive, interactive guide designed for learners who want to master the mathematical foundations of **Statistics** and **Machine Learning** and apply them practically using Python. This document is not only a step-by-step roadmap for your learning journey but also a personal project created to deepen my understanding of the mathematics behind statistics and machine learning. It is a reflection of my learning process, aimed at building a strong foundation through practice and documentation.
+**StatML: From Maths Theory to Practice** is a comprehensive, interactive guide designed for learners who want to master the mathematical foundations of **Statistics** and **Machine Learning** and apply them practically using Python. 
+
+This document is not only a step-by-step roadmap for your learning journey but also a personal project created to deepen **my understanding of the mathematics behind statistics and machine learning**. It is a reflection of my learning process, aimed at building a strong foundation through practice and documentation.
+
 ---
 
 ## 🌟 **Table of Contents**
