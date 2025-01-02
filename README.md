@@ -34,133 +34,134 @@ This document is not only a step-by-step roadmap for your learning journey but a
 ## 📊 **Statistics**
 
 ### 📈 **Descriptive Statistics**
-- **Key Concepts**:
-  - Central Tendency: Mean, Median, Mode.
-  - Dispersion: Variance, Standard Deviation, IQR.
-  - Shape: Skewness, Kurtosis.
-- **Visualizations**:
-  - Histograms, Boxplots, Scatterplots.
+- [ ] Understand Central Tendency (Mean, Median, Mode).
+- [ ] Learn Dispersion (Variance, Standard Deviation, IQR).
+- [ ] Explore Shape of Distributions (Skewness, Kurtosis).
+- [ ] Practice Visualizations (Histograms, Boxplots, Scatterplots).
 
 ---
 
 ### 🎲 **Probability Basics**
-- **Key Concepts**:
-  - Rules of Probability: Addition and Multiplication.
-  - Conditional Probability and Bayes’ Theorem.
-- **Distributions**:
-  - Discrete: Binomial, Poisson.
-  - Continuous: Normal, Uniform.
+- [ ] Master Rules of Probability (Addition, Multiplication).
+- [ ] Understand Conditional Probability and Bayes’ Theorem.
+- [ ] Study Discrete Distributions (Binomial, Poisson).
+- [ ] Study Continuous Distributions (Normal, Uniform).
 
 ---
 
 ### 🔍 **Inferential Statistics**
-- **Key Concepts**:
-  - Hypothesis Testing: t-Tests, ANOVA, Chi-Square.
-  - Confidence Intervals and p-values.
-  - Type I and Type II Errors.
-- **Common Tests**:
-  - Parametric and Non-Parametric.
+- [ ] Learn Hypothesis Testing (t-Tests, ANOVA, Chi-Square).
+- [ ] Understand Confidence Intervals and p-values.
+- [ ] Recognize Type I and Type II Errors.
+- [ ] Differentiate Parametric and Non-Parametric Tests.
 
 ---
 
 ### 📉 **Regression Analysis**
-- **Key Concepts**:
-  - Linear Regression: Simple and Multiple.
-  - Logistic Regression: Odds and Probability Interpretation.
-- **Applications**:
-  - Correlation Analysis: Pearson, Spearman.
+- [ ] Study Linear Regression (Simple and Multiple).
+- [ ] Explore Logistic Regression (Odds, Probability).
+- [ ] Conduct Correlation Analysis (Pearson, Spearman).
 
 ---
 
 ### 🕒 **Time Series Analysis**
-- **Key Concepts**:
-  - Components of Time Series:
-    - Trend, Seasonality, Cyclic Patterns, and Noise.
-  - Stationarity:
-    - Definition and Importance.
-    - Augmented Dickey-Fuller (ADF) Test.
-  - Transformations:
-    - Log Transformation, Differencing.
-  - Smoothing Techniques:
-    - Moving Averages, Exponential Smoothing.
-  - Decomposition:
-    - Additive and Multiplicative Models.
-- **Forecasting Models**:
-  - ARIMA (AutoRegressive Integrated Moving Average).
-  - Seasonal ARIMA (SARIMA).
-  - Exponential Smoothing State Space Model (ETS).
-- **Applications**:
-  - Time Series Forecasting.
-  - Anomaly Detection.
+- [ ] Understand Time Series Components (Trend, Seasonality, Noise).
+- [ ] Test for Stationarity (ADF Test).
+- [ ] Learn Transformations (Log Transformation, Differencing).
+- [ ] Practice Smoothing Techniques (Moving Averages, Exponential Smoothing).
+- [ ] Study ARIMA and SARIMA Models.
+- [ ] Analyze Time Series Decomposition (Additive, Multiplicative).
+
+---
+
+### 🤔 **Bayesian Statistics**
+- [ ] Explore Bayesian Inference (Prior, Posterior, Likelihood).
+- [ ] Compare Frequentist vs Bayesian Approaches.
+- [ ] Apply Bayesian Regression.
+
+---
+
+### 🔬 **Advanced Topics**
+- [ ] Learn Survival Analysis (Kaplan-Meier).
+- [ ] Understand Monte Carlo Simulations.
+- [ ] Explore Resampling Methods (Bootstrapping).
 
 ---
 
 ## 🤖 **Machine Learning**
 
 ### 📐 **Linear Algebra**
-- **Key Concepts**:
-  - Matrices, Vectors, and Operations.
-  - Eigenvalues, Eigenvectors, SVD.
-- **Applications**:
-  - Data Representations and Transformations.
+- [ ] Understand Matrices and Vectors.
+- [ ] Learn Eigenvalues, Eigenvectors, and SVD.
+- [ ] Apply Data Transformations.
 
 ---
 
 ### 📏 **Analytic Geometry**
-- **Key Concepts**:
-  - Norms, Distances, and Angles.
-  - Projections and Rotations.
-- **Applications**:
-  - Dimensionality Reduction and Similarity.
+- [ ] Study Norms, Distances, and Angles.
+- [ ] Understand Projections and Rotations.
 
 ---
 
 ### ➕ **Vector Calculus**
-- **Key Concepts**:
-  - Gradients and Derivatives.
-  - Multivariate Taylor Series.
-- **Applications**:
-  - Backpropagation in Neural Networks.
+- [ ] Learn Gradients and Derivatives.
+- [ ] Explore Multivariate Taylor Series.
 
 ---
 
 ### 📊 **Probability and Distributions**
-- **Key Concepts**:
-  - Gaussian Distributions.
-  - Exponential Families.
+- [ ] Study Gaussian Distributions.
+- [ ] Explore Exponential Families.
 
 ---
 
 ### 🔧 **Continuous Optimization**
-- **Key Concepts**:
-  - Gradient Descent.
-  - Convex Optimization and Lagrange Multipliers.
+- [ ] Master Gradient Descent.
+- [ ] Understand Convex Optimization and Lagrange Multipliers.
+
+---
+
+### 🧠 **Core ML Problems**
+- [ ] Learn Empirical Risk Minimization.
+- [ ] Understand Probabilistic Modeling and Inference.
+
+---
+
+### 📏 **Linear Regression**
+- [ ] Study Bayesian Linear Regression.
+- [ ] Apply Maximum Likelihood Estimation.
+
+---
+
+### 📉 **Dimensionality Reduction**
+- [ ] Learn Principal Component Analysis (PCA).
+- [ ] Compute Eigenvectors for Dimensionality Reduction.
+
+---
+
+### 📦 **Density Estimation**
+- [ ] Explore Gaussian Mixture Models (GMM).
+- [ ] Study the Expectation-Maximization Algorithm.
+
+---
+
+### ⚡ **Classification with SVMs**
+- [ ] Learn Hyperplanes and Margins.
+- [ ] Understand Kernel Methods.
 
 ---
 
 ## 📚 **Data Sources**
-
-### **General Data**
-- [data.gov](https://data.gov/): U.S. government datasets on diverse topics like education, healthcare, and agriculture.
-- [OpenDataSoft](https://data.opendatasoft.com/pages/home/): A variety of datasets for quick prototyping and analysis.
-
-### **Machine Learning Practice**
-- [UCI Machine Learning Repository](https://archive.ics.uci.edu/): Benchmark datasets for testing ML algorithms.
-
-### **Healthcare**
-- [Data.gouv.fr: Médicaments](https://www.data.gouv.fr/fr/datasets/base-de-donnees-publique-des-medicaments-base-officielle/#/resources): Pharmaceutical data from France.
-
-### **Economics and Development**
-- [World Bank DataBank](https://databank.worldbank.org/databases/page/1/orderby/popularity/direction/desc): Macroeconomic indicators and global development data.
-- [UN Data](https://data.un.org/): Comprehensive international datasets on demographics, economics, and health.
-
-### **Climate and Environment**
-- [NOAA Climate Data Online](https://www.ncei.noaa.gov/cdo-web/datasets): Climate and weather datasets from NOAA.
-
-### **Finance**
-- [Polygon.io](https://polygon.io/): Real-time and historical financial market data.
-- [Alpha Vantage](https://www.alphavantage.co/): APIs for financial data and technical indicators.
-- [Alpaca Markets](https://alpaca.markets/): A platform for algorithmic trading and financial analytics.
+- [data.gov](https://data.gov/)
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/)
+- [Base des Médicaments - Data.gouv.fr](https://www.data.gouv.fr/fr/datasets/base-de-donnees-publique-des-medicaments-base-officielle/#/resources)
+- [World Bank DataBank](https://databank.worldbank.org/databases/page/1/orderby/popularity/direction/desc)
+- [UN Data](https://data.un.org/)
+- [OpenDataSoft](https://data.opendatasoft.com/pages/home/)
+- [NOAA Climate Data Online](https://www.ncei.noaa.gov/cdo-web/datasets)
+- [Polygon.io](https://polygon.io/)
+- [Alpha Vantage](https://www.alphavantage.co/)
+- [Alpaca Markets](https://alpaca.markets/)
 
 ---
 
